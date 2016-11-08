@@ -1,0 +1,39 @@
+---
+title: "Quiz 7"
+author: "Katherine McAuley"
+date: "November 8, 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Question A
+
+Hypothesis 1: It is hypothesized that there will be a positive relationship with a large effect size (according to Bosco et al.2015 standards ) between self-esteem and academic performance. 
+
+Hypothesis 2: It is also hypothezied that there will be a negative relationship with a medium effect size (according to Bosco et al.2015 standards) between self esteem and quality of dating relationships.
+
+Hypothesis 3: Lastly, it is hypothesized that there will be a positive relationship, with a small effect size (according to Bosco et al.2015 standards) between self-esteem and quality of relationships.
+
+#Question B
+##Analysis Plan A
+To test Hypothesis 1 we will use a bivariate correlation to test the relationship between self-esteem and academic performance. The effect size in previous studies is considered to be large (Bosco et. al 2015) so therefore based on a traditional power analysis with an alpha=.05 and power=.80, the projected sample size needed for this study is approximately *N*=28. 
+
+To test Hypothesis 2 we will use a bivariate correlation to test the relationship between self-esteem and quality of dating relationships. The effect size in a previous study is considered to be medium (Bosco et. al 2015) so therefore based on a safeguard power analysis with an alpha=.05 and power=.80, the projected sample size needed for this study is approximately *N*=34. 
+
+To test Hypothesis 3 we will use a bivariate correlation to test the relationship between self-esteem and quality of friendships. There is no previous research therefore we will assume a medium effect size of .16 seems reasonable (Bosco et al. 2015). Based on no previous research and a traditional power analysis with an alpha=.05 and power=.80, the projected sample size needed for this study is approximately *N*=303. 
+
+Therefore overall when we conduct the study we will use an *N*=303 to ensure we have suitable power for all bivariate correlation analyses. 
+
+#Question C
+##Analysis Plan B
+
+To test Hypothesis 1 we will use a bivariate correlation to test the relationship between self-esteem and academic performance. The effect size in previous studies is considered to be large(*R*=.50) (Bosco et. al 2015) so therefore based on a traditional power analysis with a 95% CI of [0.21,0.70] which gives a width of .49, the projected sample size needed for this study is approximately *N*=37.
+
+To test Hypothesis 2 we will use a bivariate correlation to test the relationship between self-esteem and quality of dating relationships. The effect size in a previous study is considered to be medium(*r*=-.30) (Bosco et. al 2015) so therefore based on a traditional power analysis with a 95% CI of [-0.65,-0.20] which gives a width of .46, the projected sample size needed for this study is approximately *N*=50.
+
+To test Hypothesis 3 we will use a bivariate correlation to test the relationship between self-esteem and quality of friendships. There is no previous research therefore we will assume a medium effect size of .16 seems reasonable (Bosco et al. 2015). Based on no previous research the power analysis with a 95% CI of [0.8,0.24] which gives a width of .16, the projected sample size needed for this study is approximately *N*=600.
+
+Overall in order to complete the analyses of all 3 hypotheses one would require that *N*=600. 
